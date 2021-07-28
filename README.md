@@ -1,5 +1,5 @@
 # Password-Retrieval
- Aim: The aim of the simple Web App is to reset the old password with new password.
+ Aim: The aim of the simple Web App is to reset the old password with new password using JSON WEB TOKEN.
  
  # How it works?
  
