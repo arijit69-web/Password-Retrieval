@@ -46,7 +46,7 @@ app.post("/forget-password", (req, res, next) => {
     service: "gmail",
     auth: {
       user: "19bcs1705@gmail.com",
-      pass: "arijiT@1705",
+      pass: "##--Email Password--##",
     },
   });
 
