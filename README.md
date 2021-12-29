@@ -11,7 +11,7 @@ The aim of the Web App is to reset the old password with new password using JSON
 
 <img width="449" alt="2" src="https://user-images.githubusercontent.com/60184336/127386699-bffdfe22-fecd-4fab-ae00-2365785bf512.PNG">
 
-## OTP Link will be created to reset the password (using JSON WEB TOKEN) and the link will be send to the user's email (using NodeMailer)
+## OTP Link will be created to reset the password (using JSON WEB TOKEN) and the link will be send to the user's email using [NodeMailer](https://nodemailer.com/about/).
 
 <img width="856" alt="4" src="https://user-images.githubusercontent.com/60184336/127387928-d9dd950a-addc-403a-9500-073507760a73.PNG">
 
