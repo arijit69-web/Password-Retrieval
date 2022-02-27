@@ -1,17 +1,17 @@
 # Password-Retrieval 
 
-# Aim :
+## Aim :
 The aim of the Web App is to reset the old password with new password using JSON WEB TOKEN.
  
-# Screenshots of the Website :
+## Screenshots of the Website :
  
  <img width="960" alt="1" src="https://user-images.githubusercontent.com/60184336/127386578-5cb391a4-7f89-49ed-ac02-d42ff3d30c52.PNG">
  
- ## User will enter the Registered Email Address
+ **User will enter the Registered Email Address**
 
 <img width="449" alt="2" src="https://user-images.githubusercontent.com/60184336/127386699-bffdfe22-fecd-4fab-ae00-2365785bf512.PNG">
 
-## OTP Link will be created to reset the password (using JSON WEB TOKEN) and the link will be send to the user's email using [NodeMailer](https://nodemailer.com/about/).
+**OTP Link will be created to reset the password (using JSON WEB TOKEN) and the link will be send to the user's email using [NodeMailer](https://nodemailer.com/about/).**
 
 <img width="856" alt="4" src="https://user-images.githubusercontent.com/60184336/127387928-d9dd950a-addc-403a-9500-073507760a73.PNG">
 
@@ -19,7 +19,7 @@ The aim of the Web App is to reset the old password with new password using JSON
 
 <img width="564" alt="5" src="https://user-images.githubusercontent.com/60184336/127388212-a4972e79-81a6-4ab5-8360-3d2f5a7a3556.PNG">
 
- ## ✔️ Password Changed Successfully ✔️
+ **✔️ Password Changed Successfully ✔️**
 
 
  
