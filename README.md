@@ -1,4 +1,4 @@
-# Password-Retrieval 
+# Password Retrieval Website
 
 ## Aim :
 The aim of the Web App is to reset the old password with new password using JSON WEB TOKEN.
